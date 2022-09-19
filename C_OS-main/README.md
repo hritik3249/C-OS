@@ -1,4 +1,4 @@
-# KritiOs
+# C-OS
 The project’s Goal to learn and implement concepts of Operating systems and create a toy UNIX type 32 bit OS from scratch which includes
 The bootloader, drivers and some basic functionality.
 
